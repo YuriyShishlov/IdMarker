@@ -1,0 +1,12 @@
+F:\Projects\VERSET\IdMarker\IdMarker\bin\Debug\IdMarker.exe
+F:\Projects\VERSET\IdMarker\IdMarker\bin\Debug\IdMarker.pdb
+F:\Projects\VERSET\IdMarker\IdMarker\bin\Debug\IdMarker.BL.dll
+F:\Projects\VERSET\IdMarker\IdMarker\bin\Debug\IdMarker.BL.pdb
+F:\Projects\VERSET\IdMarker\IdMarker\obj\Debug\IdMarker.csprojAssemblyReference.cache
+F:\Projects\VERSET\IdMarker\IdMarker\obj\Debug\IdMarker.FormMain.resources
+F:\Projects\VERSET\IdMarker\IdMarker\obj\Debug\IdMarker.Properties.Resources.resources
+F:\Projects\VERSET\IdMarker\IdMarker\obj\Debug\IdMarker.csproj.GenerateResource.cache
+F:\Projects\VERSET\IdMarker\IdMarker\obj\Debug\IdMarker.csproj.CoreCompileInputs.cache
+F:\Projects\VERSET\IdMarker\IdMarker\obj\Debug\IdMarker.csproj.CopyComplete
+F:\Projects\VERSET\IdMarker\IdMarker\obj\Debug\IdMarker.exe
+F:\Projects\VERSET\IdMarker\IdMarker\obj\Debug\IdMarker.pdb

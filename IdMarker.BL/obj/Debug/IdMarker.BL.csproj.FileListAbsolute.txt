@@ -1,0 +1,5 @@
+F:\Projects\VERSET\IdMarker\IdMarker.BL\bin\Debug\IdMarker.BL.dll
+F:\Projects\VERSET\IdMarker\IdMarker.BL\bin\Debug\IdMarker.BL.pdb
+F:\Projects\VERSET\IdMarker\IdMarker.BL\obj\Debug\IdMarker.BL.csproj.CoreCompileInputs.cache
+F:\Projects\VERSET\IdMarker\IdMarker.BL\obj\Debug\IdMarker.BL.dll
+F:\Projects\VERSET\IdMarker\IdMarker.BL\obj\Debug\IdMarker.BL.pdb
